@@ -18,3 +18,16 @@ These are all of the sections of the workshop. We recommend that you go over the
 8. [Multiple levels](https://github.com/HackBinghamton/GameDevelopmentWorkshop/blob/main/MultipleLevels.md) 
 9. [Best Practices, Neat Tricks, and Extra Resources](https://github.com/HackBinghamton/GameDevelopmentWorkshop/blob/main/BestPracticesNeatTricksExtraResources.md)
 
+### Game Files
+
+Additionally, here are some zip files for different parts of this project in case you'd like to continue from there or check your work:
+
+- [After Basic Scripting](https://github.com/HackBinghamton/GameDevelopmentWorkshop/blob/main/AfterBasicScripting.zip)
+- [After Collision](https://github.com/HackBinghamton/GameDevelopmentWorkshop/blob/main/AfterCollision.zip)
+
+- [After Input](https://github.com/HackBinghamton/GameDevelopmentWorkshop/blob/main/AfterInput.zip)
+
+- [After Interface Overview](https://github.com/HackBinghamton/GameDevelopmentWorkshop/blob/main/AfterInterfaceOverview.zip)
+- [After Movement](https://github.com/HackBinghamton/GameDevelopmentWorkshop/blob/main/AfterMovement.zip)
+
+- [Final](https://github.com/HackBinghamton/GameDevelopmentWorkshop/blob/main/Final.zip)
